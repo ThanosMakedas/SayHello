@@ -1,0 +1,14 @@
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\bin\Debug\net9.0\SayHello.exe
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\bin\Debug\net9.0\SayHello.deps.json
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\bin\Debug\net9.0\SayHello.runtimeconfig.json
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\bin\Debug\net9.0\SayHello.dll
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\bin\Debug\net9.0\SayHello.pdb
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\SayHello.AssemblyInfoInputs.cache
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\SayHello.AssemblyInfo.cs
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\SayHello.csproj.CoreCompileInputs.cache
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\SayHello.dll
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\refint\SayHello.dll
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\SayHello.pdb
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\SayHello.genruntimeconfig.cache
+C:\Users\maked\OneDrive\Υπολογιστής\ConsoleApp1\SayHello\obj\Debug\net9.0\ref\SayHello.dll
